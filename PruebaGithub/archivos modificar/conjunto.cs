@@ -19,6 +19,8 @@ namespace PruebaGithub.archivos_modificar
 
         // linia josep
 
+        int hola = 3;
+
         int hola = 4;
     }
 }
