@@ -21,6 +21,6 @@ namespace PruebaGithub.archivos_modificar
 
         int hola = 3;
 
-        int hola = 4;
+        int hola2 = 4;
     }
 }
